@@ -1,6 +1,6 @@
-import Page from "~/components/about/page";
+import AboutPage from "~/components/about/page";
 
 
 export default function About() {
-    <Page />
+    return <AboutPage />
 }
